@@ -78,7 +78,7 @@ const username = useSelector(state => state.username);
 ## Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/redux-profile-state.git
+git clone https://github.com/antonina-kachusova/Redux-Toolkit-Profile-State.git
 cd redux-toolkit-profile-state
 ```
 
