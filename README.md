@@ -1,5 +1,6 @@
 # Redux Toolkit Profile State
-
+## Live Demo
+[View Live Site](https://redux-toolkit-profile-state.vercel.app/)
 A small React application that demonstrates global state management with Redux Toolkit. The user can update a username in the Profile component, and the updated value is displayed in the Header component through the shared Redux store.
 
 This project was built to practice Redux Toolkit, React Redux hooks, component communication through global state, and clean React project structure.
